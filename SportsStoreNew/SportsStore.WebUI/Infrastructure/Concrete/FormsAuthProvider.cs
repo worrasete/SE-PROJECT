@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Security;
+﻿using System.Web.Security;
 using SportsStore.WebUI.Infrastructure.Abstract;
-
 namespace SportsStore.WebUI.Infrastructure.Concrete
 {
     public class FormsAuthProvider : IAuthProvider
@@ -20,3 +15,4 @@ namespace SportsStore.WebUI.Infrastructure.Concrete
         }
     }
 }
+   

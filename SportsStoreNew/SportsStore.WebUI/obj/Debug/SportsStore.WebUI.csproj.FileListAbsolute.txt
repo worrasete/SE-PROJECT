@@ -308,3 +308,5 @@ D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.WebUI\bin\System
 D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
