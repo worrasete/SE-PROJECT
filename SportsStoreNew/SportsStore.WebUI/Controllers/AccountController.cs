@@ -8,13 +8,11 @@ using SportsStore.WebUI.Models;
 using System.Web.Security;
 using WebMatrix.WebData;
 
-
 namespace SportsStore.WebUI.Controllers
 {
     public class AccountController : Controller
     {
         IAuthProvider authProvider;
-
         public AccountController(IAuthProvider auth)
         {
             authProvider = auth;
@@ -47,48 +45,25 @@ namespace SportsStore.WebUI.Controllers
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
         public ActionResult LogOff()
         {
-            WebSecurity.Logout();
-
+            FormsAuthentication.SignOut();
+            foreach (var cookie in Request.Cookies.AllKeys)
+            {
+                Request.Cookies.Remove(cookie);
+            }
+            foreach (var cookie in Response.Cookies.AllKeys)
+            {
+                Response.Cookies.Remove(cookie);
+            }
             return RedirectToAction("Index", "Home");
+
+            //Session.Clear();
+            //FormsAuthentication.SignOut();
+            //return RedirectToAction("Index", "Home");
         }
-
-        [AllowAnonymous]
-        public ActionResult Register()
-        {
-            return View();
-        }
-
-        //
-        // POST: /Account/Register
-
-        //[HttpPost]
-        //[AllowAnonymous]
-        //[ValidateAntiForgeryToken]
-        //public ActionResult Register(RegisterModel model)
-        //{
-        //    if (ModelState.IsValid)
-        //    {
-        //        // Attempt to register the user
-        //        try
-        //        {
-        //            WebSecurity.CreateUserAndAccount(model.UserName, model.Password);
-        //            WebSecurity.Login(model.UserName, model.Password);
-        //            return RedirectToAction("Index", "Home");
-        //        }
-        //        catch (MembershipCreateUserException e)
-        //        {
-        //            ModelState.AddModelError("", ErrorCodeToString(e.StatusCode));
-        //        }
-        //    }
-
-        //    // If we got this far, something failed, redisplay form
-        //    return View(model);
-        //}
-
-        
-
     }
 }
+
+
+        

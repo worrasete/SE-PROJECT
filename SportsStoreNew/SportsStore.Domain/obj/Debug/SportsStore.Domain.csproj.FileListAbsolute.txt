@@ -53,3 +53,13 @@ D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.Domain\bin\Debug
 D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
 D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb

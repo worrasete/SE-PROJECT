@@ -39,14 +39,16 @@
         </div>
     </header>
     <div id="body">
-
+        <div id="categories">
+            @{ Html.RenderAction("Menu", "Nav"); }
+        </div>
         @RenderSection("featured", required: false)
         <section class="content-wrapper main-content clear-fix">
             @RenderBody()
         </section>
     </div>
 
-    @*  <div id="header">
+  @*  <div id="header">
         @{Html.RenderAction("Summary", "Cart");}
         <div class="title">SPORTS STORE</div>
     </div>

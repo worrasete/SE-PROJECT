@@ -210,22 +210,22 @@ ul#menu {
 ----------------------------------------------------------*/
 /* featured */
 .featured {
-    background-color: #fff;
+    background-color: lavenderblush;
 }
 
     .featured .content-wrapper {
-        background-color: #7ac0da;
+        background-color: burlywood;
         background-image: -ms-linear-gradient(left, #7ac0da 0%, #a4d4e6 100%);
         background-image: -o-linear-gradient(left, #7ac0da 0%, #a4d4e6 100%);
         background-image: -webkit-gradient(linear, left top, right top, color-stop(0, #7ac0da), color-stop(1, #a4d4e6));
         background-image: -webkit-linear-gradient(left, #7ac0da 0%, #a4d4e6 100%);
         background-image: linear-gradient(left, #7ac0da 0%, #a4d4e6 100%);
-        color: #3e5667;
+        color:azure;
         padding: 20px 40px 30px 40px;
     }
 
         .featured hgroup.title h1, .featured hgroup.title h2 {
-            color: #fff;
+            color: firebrick;
         }
 
         .featured p {
@@ -824,13 +824,14 @@ DIV.pager A:hover { background-color: Silver; }
 DIV.pager A.selected { background-color: #353535; color: White; }
 DIV#categories A
 {
-font: bold 1.1em "Arial Narrow","Franklin Gothic Medium",Arial; display: block;
-text-decoration: none; padding: .6em; color:gold;
+font: bold 1.3em "Arial Narrow","Franklin Gothic Medium",Arial; display: block;
+text-decoration: none; padding: .6em; color:darkcyan;
 border-bottom: 1px solid silver;
 }
 DIV#categories A.selected { background-color: #666; color: White; }
 DIV#categories A:hover { background-color: #CCC; }
 DIV#categories A.selected:hover { background-color: #666; }
+
 FORM { margin: 0; padding: 0; }
 DIV.item FORM { float:right; }
 DIV.item INPUT {
@@ -853,3 +854,20 @@ margin-left: .5em; background-color: #333; color:White; border: 1px solid black;
 .editor-label:after { content: ":" }
 .text-box { width: 25em; }
 .multi-line { height: 5em; font-family: Segoe UI, Verdana; }
+
+
+
+
+/*---------------*/
+
+
+DIV#header { background-color: #444; border-bottom: 2px solid #111; color: White; }
+DIV#header DIV.title { font-size: 2em; padding: .6em; }
+DIV#content { border-left: 2px solid gray; margin-left: 9em; padding: 1em; }
+DIV#categories { float: left; width: auto; padding: .3em; }
+
+FORM { margin: 0; padding: 0; }
+DIV.item FORM { float:right; }
+DIV.item INPUT {
+color:White; background-color: #333; border: 1px solid black; cursor:pointer;
+}

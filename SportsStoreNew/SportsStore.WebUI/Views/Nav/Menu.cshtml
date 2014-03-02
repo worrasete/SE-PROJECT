@@ -1,14 +1,18 @@
 ﻿@model IEnumerable<string>
-@Html.ActionLink("Home", "List", "Product")
-@foreach (var link in Model) {
-@Html.RouteLink(link, new {
-controller = "Product",
-action = "List",
-category = link,
-page = 1
+
+@Html.ActionLink("ALL PRODUCTS", "List", "Product")
+@foreach (var link in Model)
+{
+    @Html.RouteLink(link, new
+{
+    controller = "Product",
+    action = "List",
+    category = link,
+    page = 1
 },
-new {
-@class = link == ViewBag.SelectedCategory ? "selected" : null
+new
+{
+    @class = link == ViewBag.SelectedCategory ? "selected" : null
 })
 
 }

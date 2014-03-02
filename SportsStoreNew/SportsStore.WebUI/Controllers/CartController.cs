@@ -70,7 +70,8 @@ public class CartController : Controller {
         {
             return View(shippingDetails);
         }
-    } 
+    } 
+
 
     public ViewResult Checkout()
     {

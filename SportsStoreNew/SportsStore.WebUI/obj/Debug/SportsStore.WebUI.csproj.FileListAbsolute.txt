@@ -308,5 +308,42 @@ D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.WebUI\bin\System
 D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
-D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
-D:\SE323 Con test\Project\GitProject\SportsStoreNew\SportsStore.WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\Moq.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.Http.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.Providers.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\WebGrease.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\Moq.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\Ninject.pdb
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.Http.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\Worsete\Desktop\SportsStoreNew\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
